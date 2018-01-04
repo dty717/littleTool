@@ -1,0 +1,61 @@
+﻿键入String<input id="s1" /><button onclick="start()">生成</button>
+
+<br />
+起始位<input id="s2" />
+终止位<input id="s3" />
+步长<input id="s4" />
+<br />
+<textarea id="s5"></textarea>
+
+<script>
+	function start(){
+	var text=document.getElementById("s1").value;
+            var start =parseInt( document.getElementById("s2").value);
+            var end =parseInt( document.getElementById("s3").value);
+            var step =parseInt( document.getElementById("s4").value);
+            var a=-1,b=0;
+            for (var i = 0; i < text.length; i++) {
+                if (a < 0)
+                {
+                    if (text[i] <= '9' && text[i] >= '0')
+                    {
+                        a = i;
+
+                        continue;
+                    }
+                }else
+                if (!(text[i] <= '9' && text[i] >= '0'))
+                {
+                    b = i;
+                    break;
+                }
+            }
+            if (a > 0 && b == 0) {
+                b = text.length;
+            }
+            if (a < 0) {
+                a = text.length;
+                b = text.length;
+            }
+            var a1 = text.substring(0, a);
+            var a2 = text.substring(b);
+			console.log(a,b);
+
+            var builder ="";
+            if (start > end)
+                for (var i = start; i >= end; i -= step)
+                {
+                    builder+=(a1 + i + a2 + "\n");
+                }
+            else {
+                for (var i = start; i <= end; i += step)
+                {
+                    builder+=(a1 + i + a2 + "\n");
+                }
+            }
+            document.getElementById("s5").value=builder
+
+	}
+
+
+</script>
