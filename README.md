@@ -45,12 +45,20 @@
 
 员工界面 
 
-* <img src="https://github.com/dty717/littleTool/blob/master/worker2.png" width="200">
-员工的任务按照重要度被分成不同颜色
-* <img src="https://github.com/dty717/littleTool/blob/master/worker3.png" width="200">
-* <img src="https://github.com/dty717/littleTool/blob/master/worker4.png" width="200">
+<img src="https://github.com/dty717/littleTool/blob/master/worker2.png" width="200">
+* 员工的任务按照重要度被分成不同颜色
+<img src="https://github.com/dty717/littleTool/blob/master/worker3.png" width="200">
+* 员工随时确认完成以及相应删除
+<img src="https://github.com/dty717/littleTool/blob/master/worker4.png" width="200">
+* 员工自己定制任务
 
+企业界面
+<img src="https://github.com/dty717/littleTool/blob/master/use.png" width="200">
+* 可以查看员工的完成情况,和上传的数据信息
 
+平台界面
+<img src="https://github.com/dty717/littleTool/blob/master/use.png" width="200">
+* 可以查看员工的完成情况,和上传的数据信息
 
 * The ﬁlter lists are maintained by a group of volunteers through informal crowdsourced feedback from users. As expected, adding new rules or removing redundant rules in the ﬁlter lists is a laborious manual process and is prone to errors that often result in site breakage.
 
