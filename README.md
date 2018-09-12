@@ -45,8 +45,14 @@
 
 员工界面 
 
-* ![alt text](work1.png)
-* ![alt text](work2.png)
+
+
+* <img src="https://github.com/dty717/littleTool/blob/master/worker1.PNG" width="200">
+* <img src="https://github.com/dty717/littleTool/blob/master/worker2.png" width="200">
+* <img src="https://github.com/dty717/littleTool/blob/master/worker3.png" width="200">
+* <img src="https://github.com/dty717/littleTool/blob/master/worker4.png" width="200">
+
+
 
 * The ﬁlter lists are maintained by a group of volunteers through informal crowdsourced feedback from users. As expected, adding new rules or removing redundant rules in the ﬁlter lists is a laborious manual process and is prone to errors that often result in site breakage.
 
