@@ -43,7 +43,7 @@
 效果预览
 ========
 
-# 员工界面 
+## 员工界面 
 
 <img src="https://github.com/dty717/littleTool/blob/master/worker2.png" width="200">
 
@@ -57,32 +57,28 @@
 
  员工自己定制任务
 
-# 企业界面
-
-<img src="https://github.com/dty717/littleTool/blob/master/use.png" width="200">
-
- 可以查看员工的完成情况,和上传的数据信息
-
-# 平台界面
+## 企业界面
 
 <img src="https://github.com/dty717/littleTool/blob/master/use.png" width="400">
 
  可以查看员工的完成情况,和上传的数据信息
 
-* The ﬁlter lists are maintained by a group of volunteers through informal crowdsourced feedback from users. As expected, adding new rules or removing redundant rules in the ﬁlter lists is a laborious manual process and is prone to errors that often result in site breakage.
+## 平台界面
 
-* In sum, adblockers currently are simply not effective against anti-adblocking. For example, prior work showed that adblockers remove less than 20% of the adblock detection warning messages shown by anti-adblockers.
+[![Smart metering](https://user-images.githubusercontent.com/8308069/31455788-6888a948-aec1-11e7-9819-410e0ba785e0.gif "Smart metering")](https://thingsboard.io/smart-metering/)
+[**Smart metering**](https://thingsboard.io/smart-metering/)
 
-* Some solutions (e.g., BlockAdblock) utilize eval to wrap their anti-adblocking logic represented as a string
-most websites choose to outsource anti-adblocking to dedicated third-party anti-adblocking service providers such as PageFair.
+[![IoT Rule Engine](https://thingsboard.io/images/demo/send-email-rule-chain.gif "IoT Rule Engine")](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
+[**IoT Rule Engine**](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
 
-*  Analytics and ads scripts by Google are the most popular source of anti-adblocking scripts. Several other online advertising services such as Taboola and Outbrain using anti-adblockers.
+[![Smart energy](https://cloud.githubusercontent.com/assets/8308069/24495682/aebd45d0-153e-11e7-8de4-7360ed5b41ae.gif "Smart energy")](https://thingsboard.io/smart-energy/)
+[**Smart energy**](https://thingsboard.io/smart-energy/)
 
-* Some scripts use the “pixel” technique, which loads a small, unobtrusive piece of image (i.e., pixel) and then drops a browser cookie for future inter-domain ad re-targeting.
+[![Smart farming](https://cloud.githubusercontent.com/assets/8308069/24496824/10dc1144-1542-11e7-8aa1-5d3a281d5a1a.gif "Smart farming")](https://thingsboard.io/smart-farming/)
+[**Smart farming**](https://thingsboard.io/smart-farming/)
 
-* Adblockers are currently struggling to keep up with anti-adblockers due to the challenges in manually analyzing the anti-adblocking Javscript. There is simply no guarantee. 
-
-* I anticipate escalation of the technological battle between adblockers and anti-adblockers — at least in the short term. From the perspective of security and privacy conscious users, it is crucial that adblockers are able to keep up with antiadblockers. Moreover, the increasing popularity of adblocking has already led to various reform efforts within the online advertising industry to improve ads (e.g., Coalition for Better Ads, Acceptable Ads Committee) and even alternate monetization models (e.g., Google Contributor, Brave Payments). However, to keep up the pressure on publishers and advertisers in the long term, I believe it is crucial that adblockers keep pace with anti-adblockers in the rapidly escalating technological arms race.
+[![Fleet tracking](https://cloud.githubusercontent.com/assets/8308069/24497169/3a1a61e0-1543-11e7-8d55-3c8a13f35634.gif "Fleet tracking")](https://thingsboard.io/fleet-tracking/)
+[**Fleet tracking**](https://thingsboard.io/fleet-tracking/)
 
 
 
