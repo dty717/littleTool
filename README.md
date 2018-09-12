@@ -45,7 +45,8 @@
 
 员工界面 
 
-* Alexa top-10K list and are able to detect anti-adblockers on 30.5% websites. From manually checking one third (1000) of these detected websites.
+* ![alt text](work1.png)
+* ![alt text](work2.png)
 
 * The ﬁlter lists are maintained by a group of volunteers through informal crowdsourced feedback from users. As expected, adding new rules or removing redundant rules in the ﬁlter lists is a laborious manual process and is prone to errors that often result in site breakage.
 
