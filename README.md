@@ -66,160 +66,17 @@
 ## 平台界面
 
 [![Smart metering](https://user-images.githubusercontent.com/8308069/31455788-6888a948-aec1-11e7-9819-410e0ba785e0.gif "Smart metering")](https://thingsboard.io/smart-metering/)
-[**Smart metering**](https://thingsboard.io/smart-metering/)
+[**智能仪表**](https://thingsboard.io/smart-metering/)
 
 [![IoT Rule Engine](https://thingsboard.io/images/demo/send-email-rule-chain.gif "IoT Rule Engine")](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
-[**IoT Rule Engine**](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
+[**规则系统**](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
 
 [![Smart energy](https://cloud.githubusercontent.com/assets/8308069/24495682/aebd45d0-153e-11e7-8de4-7360ed5b41ae.gif "Smart energy")](https://thingsboard.io/smart-energy/)
-[**Smart energy**](https://thingsboard.io/smart-energy/)
+[**能源图**](https://thingsboard.io/smart-energy/)
 
 [![Smart farming](https://cloud.githubusercontent.com/assets/8308069/24496824/10dc1144-1542-11e7-8aa1-5d3a281d5a1a.gif "Smart farming")](https://thingsboard.io/smart-farming/)
-[**Smart farming**](https://thingsboard.io/smart-farming/)
+[**农场图**](https://thingsboard.io/smart-farming/)
 
 [![Fleet tracking](https://cloud.githubusercontent.com/assets/8308069/24497169/3a1a61e0-1543-11e7-8d55-3c8a13f35634.gif "Fleet tracking")](https://thingsboard.io/fleet-tracking/)
-[**Fleet tracking**](https://thingsboard.io/fleet-tracking/)
+[**导航图**](https://thingsboard.io/fleet-tracking/)
 
-
-
-Protection?
-========
-
-
-Router (doesn't work 100%)
-
-For a router to do this, it would have to be more than a router. To truly filter ads, you have to sit at the application level, layer 7. Routers sit at layer 3 and 4. To a router, ads and legit website traffic can come from the same IP address, making it impossible to differentiate between the two.
-
-
-Regex detection (works 100%):
-
-
-&tid=6[0-9]{5}&(status|red)=[0-9]{1,2}&(info|ref|subid|abt|v)
-
-
-
-Top RoughTed domains
-========
-
-* histock.info
-* charmstroy.info
-* greatwork.info
-* yoursinfo.info
-* leversions.info
-* modescrips.info
-* beershavartb.com
-* budgement.info
-* octagonize.com
-* contentpap.info
-* baltimoresun.com
-* boston.com
-* calgaryherald.com
-* calgarysun.com
-* capitalgazette.com
-* carrollcountytimes.com
-* celebslam.com
-* celebuzz.com
-* chicagotribune.com
-* chowhound.com
-* citypaper.com
-* computershopper.com
-* courant.com
-* csgoutpost.com
-* ctnow.com
-* cycleworld.com
-* dailypress.com
-* deathandtaxesmag.com
-* delmartimes.net
-* download.cnet.com
-* edmontonjournal.com
-* edmontonsun.com
-* edmunds.com
-* everydayhealth.com
-* extremetech.com
-* fieldandstream.com
-* financialpost.com
-* gamepedia.com
-* gamerevolution.com
-* geek.com
-* gofugyourself.com
-* growthspotter.com
-* hearthhead.com
-* hockeysfuture.com
-* hoylosangeles.com
-* ibtimes.com
-* idigitaltimes.com
-* infinitiev.com
-* lajollalight.com
-* leaderpost.com
-* lifewire.com
-* lolking.net
-* mamaslatinas.com
-* mcall.com
-* metacritic.com
-* metrolyrics.com
-* mmo-champion.com
-* montrealgazette.com
-* nasdaq.com
-* nationalpost.com
-* orlandosentinel.com
-* ottawacitizen.com
-* ottawasun.com
-* pcmag.com
-* popphoto.com
-* popsci.com
-* ranchosantafereview.com
-* ranker.com
-* realclearpolitics.com
-* redeyechicago.com
-* sandiegouniontribune.com
-* saveur.com
-* sherd.com
-* southflorida.com
-* spin.com
-* sporcle.com
-* stereogum.com
-* sun-sentinel.com
-* tf2outpost.com
-* thebalance.com
-* thefrisky.com
-* theprovince.com
-* thespruce.com
-* thestarphoenix.com
-* thesuperficial.com
-* thoughtco.com
-* timeanddate.com
-* tmn.today
-* torontosun.com
-* twincities.com
-* vancouversun.com
-* vibe.com
-* wikia.com
-* windsorstar.com
-* winnipegsun.com
-* wowhead.com
-* wrestlezone.com
-* zam.com
-* 101greatgoals.com
-* 4chan.org
-* allthetests.com
-* biology-online.org
-* destructoid.com
-* eurweb.com
-* fullmatchesandshows.com
-* grammarist.com
-* jerusalemonline.com
-* lucianne.com
-* phonesreview.co.uk
-* thefreethoughtproject.com
-* veteranstoday.com
-* walla.co.il
-* yad2.co.il
-
-
-Research:
-* https://www.theregister.co.uk/2017/08/11/ad_blocker_bypass_code/
-* https://palant.de/2017/04/19/is-undetectable-ad-blocking-possible
-* https://sites.google.com/view/antiadb-proj/
-* https://blog.malwarebytes.com/cybercrime/2017/05/roughted-the-anti-ad-blocker-malvertiser/
-* https://github.com/gorhill/uBO-Extra/wiki/Sites-on-which-uBO-Extra-is-useful#instart-logic *[ref](https://github.com/sindresorhus/devtools-detect)
-* [EasyList: Ad-serving domain removed due to DMCA takedown request](https://news.ycombinator.com/item?id=14978228)
