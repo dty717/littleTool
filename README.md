@@ -80,3 +80,12 @@
 [![Fleet tracking](https://cloud.githubusercontent.com/assets/8308069/24497169/3a1a61e0-1543-11e7-8d55-3c8a13f35634.gif "Fleet tracking")](https://thingsboard.io/fleet-tracking/)
 [**导航图**](https://thingsboard.io/fleet-tracking/)
 
+
+未来规划
+========
+
+可以引入机器设备提高生产效率
+
+逐渐取代人工,降低生产成本
+
+更有效的与该管理平台衔接
