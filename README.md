@@ -45,10 +45,8 @@
 
 员工界面 
 
-
-
-* <img src="https://github.com/dty717/littleTool/blob/master/worker1.PNG" width="200">
 * <img src="https://github.com/dty717/littleTool/blob/master/worker2.png" width="200">
+员工的任务按照重要度被分成不同颜色
 * <img src="https://github.com/dty717/littleTool/blob/master/worker3.png" width="200">
 * <img src="https://github.com/dty717/littleTool/blob/master/worker4.png" width="200">
 
